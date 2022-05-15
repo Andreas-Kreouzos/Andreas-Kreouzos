@@ -1,18 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my MSc thesis based on IoT Data editing by using Spring Boot
+- 🌱 I’m currently learning RESTful Web Services by using Spring Boot
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/andreas-kreouzos/)
 
-<!--
-**Andreas-Kreouzos/Andreas-Kreouzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
