@@ -1,6 +1,8 @@
 ### Andreas Kreouzos
 ---
 
+I'm Andreas Kreouzos and a EU-citizen from Greece, currently working as Sales Adminstrator in Energy Solutions sector. I am actively searching a junior 💻 software developer role on Java back-end programming.
+
 - 🔭 I’m currently working on my MSc thesis based on IoT Data editing by using Spring Boot
 - 🌱 I’m currently learning RESTful Web Services by using Spring Boot
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/andreas-kreouzos/)
