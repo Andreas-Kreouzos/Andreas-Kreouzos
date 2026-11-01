@@ -3,7 +3,7 @@
 
 I'm Andreas Kreouzos and a EU-citizen from Greece, currently working as 💻 Software Engineer for Syntax IT Group.
 
-- 👨‍💻 I’m currently working as Software Engineer in one of the biggest IT Consulting companies in the world
+- 👨‍💻 I’m currently working as Software Engineer in Interamerican S.A. (member of Achmea Group) one of the biggest insurance companies in Greece
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/andreas-kreouzos/)
 
 
