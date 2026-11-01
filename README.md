@@ -4,7 +4,6 @@
 I'm Andreas Kreouzos and a EU-citizen from Greece, currently working as 💻 Software Engineer for Syntax IT Group.
 
 - 👨‍💻 I’m currently working as Software Engineer in one of the biggest IT Consulting companies in the world
-- 🌱 I’m currently developing my skills in various frameworks such as Spring and MicroProfile
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/andreas-kreouzos/)
 
 
